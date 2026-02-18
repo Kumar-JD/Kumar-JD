@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Kumar JD<br><br>**Software Developer | Java & Web Development Enthusiast | Sharing projects as KumarJD**  <br><br>---<br><br>## About Me<br>Passionate about **Java, Spring Boot, JSP, JDBC, HTML, CSS, MySQL, Tomcat**. I love building web apps and learning new tech.  <br><br>---<br><br>## Currently<br>- Building Java & Spring Boot projects  <br>- Learning best practices for web development  <br><br>---<br><br>## Ask me about<br>Java, web apps, databases, Spring Boot, Tomcat  <br><br>---<br><br>## Fun Fact<br>I enjoy coding challenges and sharing knowledge with the developer community 🚀
+# Hi there 👋, I'm Kumar JD<br><br>**Software Developer | Java & Web Development Enthusiast | Sharing projects as KumarJD**  <br><br>---<br><br># About Me<br>Passionate about **Java, Spring Boot, JSP, JDBC, HTML, CSS, MySQL, Tomcat**. I love building web apps and learning new tech.  <br><br>---<br><br># Currently<br>- Building Java & Spring Boot projects  <br>- Learning best practices for web development  <br><br>---<br><br># Ask me about<br>Java, web apps, databases, Spring Boot, Tomcat  <br><br>---<br><br># Fun Fact<br>I enjoy coding challenges and sharing knowledge with the developer community 🚀
 
 
 # 💻 Tech Stack:
